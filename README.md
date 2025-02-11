@@ -22,9 +22,9 @@ Analyzed customer purchasing patterns to improve marketing strategies
 Evaluated seasonal sales trends to optimize inventory management
 
 🔗 Repository Content
-Dataset (if shareable) or Sample Data
-Power BI (.pbix) File
-DAX Queries & Measures
+Dataset (if shareable) or Sample Data,
+Power BI (.pbix) File,
+DAX Queries & Measures,
 Project Documentation & Insights
 
 🚀 Conclusion
